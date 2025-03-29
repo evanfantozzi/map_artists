@@ -1,0 +1,3077 @@
+{
+ "test_id": {
+  "name": "bad"
+ },
+ "4q3ewBCX7sLwd24euuV69X": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+  },
+  "followers": {
+   "href": null,
+   "total": 93090439
+  },
+  "genres": [
+   "reggaeton",
+   "trap latino",
+   "latin",
+   "urbano latino"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+  "id": "4q3ewBCX7sLwd24euuV69X",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb744a4243fb6cc938011a98f4",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174744a4243fb6cc938011a98f4",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178744a4243fb6cc938011a98f4",
+    "width": 160
+   }
+  ],
+  "name": "Bad Bunny",
+  "popularity": 100,
+  "type": "artist",
+  "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+  "birthdate": "1994-03-10",
+  "birth_location": "San Juan, Puerto Rico"
+ },
+ "0GM7qgcRCORpGnfcN2tCiB": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+  },
+  "followers": {
+   "href": null,
+   "total": 2712764
+  },
+  "genres": [
+   "reggaeton"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0GM7qgcRCORpGnfcN2tCiB",
+  "id": "0GM7qgcRCORpGnfcN2tCiB",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebb50d43598b9074f0d6146127",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174b50d43598b9074f0d6146127",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178b50d43598b9074f0d6146127",
+    "width": 160
+   }
+  ],
+  "name": "Tainy",
+  "popularity": 79,
+  "type": "artist",
+  "uri": "spotify:artist:0GM7qgcRCORpGnfcN2tCiB",
+  "birthdate": "1989-08-09",
+  "birth_location": "San Juan, Puerto Rico"
+ },
+ "0cmWgDlu9CwTgxPhf403hb": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+  },
+  "followers": {
+   "href": null,
+   "total": 1440622
+  },
+  "genres": [
+   "trip hop",
+   "downtempo",
+   "nu jazz",
+   "electronic"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0cmWgDlu9CwTgxPhf403hb",
+  "id": "0cmWgDlu9CwTgxPhf403hb",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebb9a3462bde9f62d74aa50507",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174b9a3462bde9f62d74aa50507",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178b9a3462bde9f62d74aa50507",
+    "width": 160
+   }
+  ],
+  "name": "Bonobo",
+  "popularity": 64,
+  "type": "artist",
+  "uri": "spotify:artist:0cmWgDlu9CwTgxPhf403hb",
+  "birthdate": "1976-03-30",
+  "birth_location": "Leeds, United Kingdom"
+ },
+ "1vyhD5VmyZ7KMfW5gqLgo5": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+  },
+  "followers": {
+   "href": null,
+   "total": 38097156
+  },
+  "genres": [
+   "reggaeton",
+   "latin"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+  "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb4a350b04a3f9bb77a30b004e",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051744a350b04a3f9bb77a30b004e",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1784a350b04a3f9bb77a30b004e",
+    "width": 160
+   }
+  ],
+  "name": "J Balvin",
+  "popularity": 89,
+  "type": "artist",
+  "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5",
+  "birthdate": "1985-05-07",
+  "birth_location": "Medell\u00edn, Colombia"
+ },
+ "3CIIaeZuFYrAD6PRVyuO4U": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+  },
+  "followers": {
+   "href": null,
+   "total": 2746487
+  },
+  "genres": [
+   "piseiro",
+   "forr\u00f3",
+   "arrocha",
+   "sertanejo",
+   "agronejo",
+   "brega"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3CIIaeZuFYrAD6PRVyuO4U",
+  "id": "3CIIaeZuFYrAD6PRVyuO4U",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb37ef39c40615bf0f655c404a",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab6761610000517437ef39c40615bf0f655c404a",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f17837ef39c40615bf0f655c404a",
+    "width": 160
+   }
+  ],
+  "name": "Felipe Amorim",
+  "popularity": 75,
+  "type": "artist",
+  "uri": "spotify:artist:3CIIaeZuFYrAD6PRVyuO4U",
+  "birthdate": "",
+  "birth_location": ", Brazil"
+ },
+ "1mZbRiSVb2ExneAlDbBiiT": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+  },
+  "followers": {
+   "href": null,
+   "total": 165191
+  },
+  "genres": [
+   "mpb",
+   "brazilian jazz"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1mZbRiSVb2ExneAlDbBiiT",
+  "id": "1mZbRiSVb2ExneAlDbBiiT",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebf3d1444f4e63e12ca08e0eeb",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174f3d1444f4e63e12ca08e0eeb",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178f3d1444f4e63e12ca08e0eeb",
+    "width": 160
+   }
+  ],
+  "name": "L\u00f4 Borges",
+  "popularity": 48,
+  "type": "artist",
+  "uri": "spotify:artist:1mZbRiSVb2ExneAlDbBiiT",
+  "birthdate": "1952-01-10",
+  "birth_location": "Belo Horizonte, Brazil"
+ },
+ "5K4W6rqBFWDnAN6FQUkS6x": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+  },
+  "followers": {
+   "href": null,
+   "total": 29592864
+  },
+  "genres": [
+   "rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+  "id": "5K4W6rqBFWDnAN6FQUkS6x",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1786e835a500e791bf9c27a422a",
+    "width": 160
+   }
+  ],
+  "name": "Kanye West",
+  "popularity": 92,
+  "type": "artist",
+  "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x",
+  "birthdate": "1977-06-08",
+  "birth_location": "Atlanta, United States"
+ },
+ "3jK9MiCrA42lLAdMGUZpwa": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+  },
+  "followers": {
+   "href": null,
+   "total": 2645161
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+  "id": "3jK9MiCrA42lLAdMGUZpwa",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab6761610000517496287bd47570ff13f0c01496",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f17896287bd47570ff13f0c01496",
+    "width": 160
+   }
+  ],
+  "name": "Anderson .Paak",
+  "popularity": 78,
+  "type": "artist",
+  "uri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa",
+  "birthdate": "1986-02-08",
+  "birth_location": "Oxnard, United States"
+ },
+ "4V8LLVI7PbaPR0K2TGSxFF": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+  },
+  "followers": {
+   "href": null,
+   "total": 21024175
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+  "id": "4V8LLVI7PbaPR0K2TGSxFF",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebdfa2b0c7544a772042a12e52",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174dfa2b0c7544a772042a12e52",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178dfa2b0c7544a772042a12e52",
+    "width": 160
+   }
+  ],
+  "name": "Tyler, The Creator",
+  "popularity": 91,
+  "type": "artist",
+  "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF",
+  "birthdate": "1991-03-06",
+  "birth_location": "Hawthorne, United States"
+ },
+ "2YZyLoL8N0Wb9xBt1NhZWg": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+  },
+  "followers": {
+   "href": null,
+   "total": 39653931
+  },
+  "genres": [
+   "hip hop",
+   "west coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+  "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f17839ba6dcd4355c03de0b50918",
+    "width": 160
+   }
+  ],
+  "name": "Kendrick Lamar",
+  "popularity": 97,
+  "type": "artist",
+  "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
+  "birthdate": "1987-06-17",
+  "birth_location": "Compton, United States"
+ },
+ "1G9G7WwrXka3Z1r7aIDjI7": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+  },
+  "followers": {
+   "href": null,
+   "total": 3098079
+  },
+  "genres": [
+   "southern hip hop",
+   "hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+  "id": "1G9G7WwrXka3Z1r7aIDjI7",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb0cb3f95b9f8f7337e135a925",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051740cb3f95b9f8f7337e135a925",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1780cb3f95b9f8f7337e135a925",
+    "width": 160
+   }
+  ],
+  "name": "Outkast",
+  "popularity": 76,
+  "type": "artist",
+  "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7",
+  "birthdate": "1991",
+  "birth_location": "East Point, United States"
+ },
+ "00x1fYSGhdqScXBRpSj3DW": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+  },
+  "followers": {
+   "href": null,
+   "total": 619326
+  },
+  "genres": [
+   "pop soul"
+  ],
+  "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
+  "id": "00x1fYSGhdqScXBRpSj3DW",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebf2f4aa5e873acfe27b190915",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174f2f4aa5e873acfe27b190915",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178f2f4aa5e873acfe27b190915",
+    "width": 160
+   }
+  ],
+  "name": "Olivia Dean",
+  "popularity": 74,
+  "type": "artist",
+  "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW",
+  "birthdate": "1917-06-07",
+  "birth_location": "Steubenville, United States"
+ },
+ "3uUcdriXzvaQapjo3a4DZR": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR"
+  },
+  "followers": {
+   "href": null,
+   "total": 58585
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3uUcdriXzvaQapjo3a4DZR",
+  "id": "3uUcdriXzvaQapjo3a4DZR",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebbe246682bef37c0895a0e5de",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174be246682bef37c0895a0e5de",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178be246682bef37c0895a0e5de",
+    "width": 160
+   }
+  ],
+  "name": "Cristobal Tapia De Veer",
+  "popularity": 58,
+  "type": "artist",
+  "uri": "spotify:artist:3uUcdriXzvaQapjo3a4DZR",
+  "birthdate": "1973",
+  "birth_location": "Santiago, Canada"
+ },
+ "7FNnA9vBm6EKceENgCGRMb": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+  },
+  "followers": {
+   "href": null,
+   "total": 13055524
+  },
+  "genres": [
+   "brazilian pop",
+   "funk pop",
+   "funk carioca",
+   "funk",
+   "pagode baiano"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7FNnA9vBm6EKceENgCGRMb",
+  "id": "7FNnA9vBm6EKceENgCGRMb",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebda2a9d91c5f52a9088851251",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174da2a9d91c5f52a9088851251",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178da2a9d91c5f52a9088851251",
+    "width": 160
+   }
+  ],
+  "name": "Anitta",
+  "popularity": 83,
+  "type": "artist",
+  "uri": "spotify:artist:7FNnA9vBm6EKceENgCGRMb",
+  "birthdate": "1993-03-30",
+  "birth_location": "Rio de Janeiro, Brazil"
+ },
+ "3XHO7cRUPCLOr6jwp8vsx5": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+  },
+  "followers": {
+   "href": null,
+   "total": 3389973
+  },
+  "genres": [
+   "indie",
+   "indie rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3XHO7cRUPCLOr6jwp8vsx5",
+  "id": "3XHO7cRUPCLOr6jwp8vsx5",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb3fb5214e667e278a20878a6b",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051743fb5214e667e278a20878a6b",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1783fb5214e667e278a20878a6b",
+    "width": 160
+   }
+  ],
+  "name": "alt-J",
+  "popularity": 71,
+  "type": "artist",
+  "uri": "spotify:artist:3XHO7cRUPCLOr6jwp8vsx5",
+  "birthdate": "1965-07-31",
+  "birth_location": "Yate, United Kingdom"
+ },
+ "3nFkdlSjzX9mRTtwJOzDYB": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+  },
+  "followers": {
+   "href": null,
+   "total": 9938933
+  },
+  "genres": [
+   "hip hop",
+   "east coast hip hop",
+   "rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+  "id": "3nFkdlSjzX9mRTtwJOzDYB",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174c75afcd5a9027f60eaebb5e4",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178c75afcd5a9027f60eaebb5e4",
+    "width": 160
+   }
+  ],
+  "name": "JAY-Z",
+  "popularity": 84,
+  "type": "artist",
+  "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+ },
+ "4LLpKhyESsyAXpc4laK94U": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+  },
+  "followers": {
+   "href": null,
+   "total": 11626645
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+  "id": "4LLpKhyESsyAXpc4laK94U",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174ed3b89aa602145fde71a163a",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178ed3b89aa602145fde71a163a",
+    "width": 160
+   }
+  ],
+  "name": "Mac Miller",
+  "popularity": 85,
+  "type": "artist",
+  "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+ },
+ "4iMO20EPodreIaEl8qW66y": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+  },
+  "followers": {
+   "href": null,
+   "total": 1069709
+  },
+  "genres": [
+   "bedroom pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4iMO20EPodreIaEl8qW66y",
+  "id": "4iMO20EPodreIaEl8qW66y",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb213487aac43637b03baf9db8",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174213487aac43637b03baf9db8",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178213487aac43637b03baf9db8",
+    "width": 160
+   }
+  ],
+  "name": "Still Woozy",
+  "popularity": 66,
+  "type": "artist",
+  "uri": "spotify:artist:4iMO20EPodreIaEl8qW66y"
+ },
+ "68kEuyFKyqrdQQLLsmiatm": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+  },
+  "followers": {
+   "href": null,
+   "total": 1991810
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+  "id": "68kEuyFKyqrdQQLLsmiatm",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb53054f8bc7e0153daefe12cc",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab6761610000517453054f8bc7e0153daefe12cc",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f17853054f8bc7e0153daefe12cc",
+    "width": 160
+   }
+  ],
+  "name": "Vince Staples",
+  "popularity": 68,
+  "type": "artist",
+  "uri": "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+ },
+ "6aaMZ3fcfLv4tEbmY7bjRM": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+  },
+  "followers": {
+   "href": null,
+   "total": 1550908
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6aaMZ3fcfLv4tEbmY7bjRM",
+  "id": "6aaMZ3fcfLv4tEbmY7bjRM",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb1ff1685224034e6c12538722",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051741ff1685224034e6c12538722",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1781ff1685224034e6c12538722",
+    "width": 160
+   }
+  ],
+  "name": "Isaiah Rashad",
+  "popularity": 70,
+  "type": "artist",
+  "uri": "spotify:artist:6aaMZ3fcfLv4tEbmY7bjRM"
+ },
+ "73sIBHcqh3Z3NyqHKZ7FOL": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+  },
+  "followers": {
+   "href": null,
+   "total": 13990340
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL",
+  "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebc3dc5429b676b16d451e5f77",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174c3dc5429b676b16d451e5f77",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178c3dc5429b676b16d451e5f77",
+    "width": 160
+   }
+  ],
+  "name": "Childish Gambino",
+  "popularity": 81,
+  "type": "artist",
+  "uri": "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
+ },
+ "4MavQ0I0q9aAXj0mErfkqC": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC"
+  },
+  "followers": {
+   "href": null,
+   "total": 42565
+  },
+  "genres": [
+   "tecnobrega",
+   "nova mpb"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4MavQ0I0q9aAXj0mErfkqC",
+  "id": "4MavQ0I0q9aAXj0mErfkqC",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb6c7dc1f665920fe8241e024f",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051746c7dc1f665920fe8241e024f",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1786c7dc1f665920fe8241e024f",
+    "width": 160
+   }
+  ],
+  "name": "Lu\u00edsa e os Alquimistas",
+  "popularity": 36,
+  "type": "artist",
+  "uri": "spotify:artist:4MavQ0I0q9aAXj0mErfkqC"
+ },
+ "1i8SpTcr7yvPOmcqrbnVXY": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+  },
+  "followers": {
+   "href": null,
+   "total": 38313345
+  },
+  "genres": [
+   "reggaeton",
+   "trap latino",
+   "latin",
+   "urbano latino"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+  "id": "1i8SpTcr7yvPOmcqrbnVXY",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb463e10d5f1a533ddd6eb9a04",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174463e10d5f1a533ddd6eb9a04",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178463e10d5f1a533ddd6eb9a04",
+    "width": 160
+   }
+  ],
+  "name": "Ozuna",
+  "popularity": 87,
+  "type": "artist",
+  "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+ },
+ "6PEMFpe3PTOksdV4ZXUpbE": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+  },
+  "followers": {
+   "href": null,
+   "total": 330408
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6PEMFpe3PTOksdV4ZXUpbE",
+  "id": "6PEMFpe3PTOksdV4ZXUpbE",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb89fa062521347470d69ba4c2",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab6761610000517489fa062521347470d69ba4c2",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f17889fa062521347470d69ba4c2",
+    "width": 160
+   }
+  ],
+  "name": "NxWorries",
+  "popularity": 56,
+  "type": "artist",
+  "uri": "spotify:artist:6PEMFpe3PTOksdV4ZXUpbE"
+ },
+ "7MNEVabc4cs19CbzAFZmXz": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+  },
+  "followers": {
+   "href": null,
+   "total": 197568
+  },
+  "genres": [
+   "neo soul"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7MNEVabc4cs19CbzAFZmXz",
+  "id": "7MNEVabc4cs19CbzAFZmXz",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb295721eb01aac2b09a868460",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174295721eb01aac2b09a868460",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178295721eb01aac2b09a868460",
+    "width": 160
+   }
+  ],
+  "name": "Terrace Martin",
+  "popularity": 58,
+  "type": "artist",
+  "uri": "spotify:artist:7MNEVabc4cs19CbzAFZmXz",
+  "birthdate": "1917-06-07",
+  "birth_location": "Steubenville, United States"
+ },
+ "0nFdWpwl7h6fp3ADRyG14L": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+  },
+  "followers": {
+   "href": null,
+   "total": 500750
+  },
+  "genres": [
+   "brazilian pop",
+   "nova mpb"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0nFdWpwl7h6fp3ADRyG14L",
+  "id": "0nFdWpwl7h6fp3ADRyG14L",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb5dc46cd89751c5b6ab34d210",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051745dc46cd89751c5b6ab34d210",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1785dc46cd89751c5b6ab34d210",
+    "width": 160
+   }
+  ],
+  "name": "Marina Sena",
+  "popularity": 67,
+  "type": "artist",
+  "uri": "spotify:artist:0nFdWpwl7h6fp3ADRyG14L",
+  "birthdate": "1996-09-26",
+  "birth_location": "Minas Gerais, Brazil"
+ },
+ "1Xyo4u8uXC1ZmMpatF05PJ": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+  },
+  "followers": {
+   "href": null,
+   "total": 102312510
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+  "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051749e528993a2820267b97f6aae",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1789e528993a2820267b97f6aae",
+    "width": 160
+   }
+  ],
+  "name": "The Weeknd",
+  "popularity": 97,
+  "type": "artist",
+  "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
+  "birthdate": "1990-02-16",
+  "birth_location": "Scarborough, Canada"
+ },
+ "2R21vXR83lH98kGeO99Y66": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+  },
+  "followers": {
+   "href": null,
+   "total": 41303807
+  },
+  "genres": [
+   "reggaeton",
+   "trap latino",
+   "urbano latino",
+   "latin"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2R21vXR83lH98kGeO99Y66",
+  "id": "2R21vXR83lH98kGeO99Y66",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eba23ceb177745632b517cb7b2",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174a23ceb177745632b517cb7b2",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178a23ceb177745632b517cb7b2",
+    "width": 160
+   }
+  ],
+  "name": "Anuel AA",
+  "popularity": 88,
+  "type": "artist",
+  "uri": "spotify:artist:2R21vXR83lH98kGeO99Y66",
+  "birthdate": "1992-11-27",
+  "birth_location": "Carolina, Puerto Rico"
+ },
+ "3E12tRURRvPfHz0hAMCFYc": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+  },
+  "followers": {
+   "href": null,
+   "total": 878514
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3E12tRURRvPfHz0hAMCFYc",
+  "id": "3E12tRURRvPfHz0hAMCFYc",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb461144511a619789aea8f69a",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174461144511a619789aea8f69a",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178461144511a619789aea8f69a",
+    "width": 160
+   }
+  ],
+  "name": "Omar Courtz",
+  "popularity": 83,
+  "type": "artist",
+  "uri": "spotify:artist:3E12tRURRvPfHz0hAMCFYc",
+  "birthdate": "1997-10-11",
+  "birth_location": "Carolina, Puerto Rico"
+ },
+ "53KwLdlmrlCelAZMaLVZqU": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+  },
+  "followers": {
+   "href": null,
+   "total": 1524718
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+  "id": "53KwLdlmrlCelAZMaLVZqU",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb93fe5fc8fdb5a98248911a07",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab6761610000517493fe5fc8fdb5a98248911a07",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f17893fe5fc8fdb5a98248911a07",
+    "width": 160
+   }
+  ],
+  "name": "James Blake",
+  "popularity": 69,
+  "type": "artist",
+  "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU",
+  "birthdate": "1988-09-26",
+  "birth_location": "Enfield, United Kingdom"
+ },
+ "78rUTD7y6Cy67W1RVzYs7t": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+  },
+  "followers": {
+   "href": null,
+   "total": 3971925
+  },
+  "genres": [
+   "bedroom pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+  "id": "78rUTD7y6Cy67W1RVzYs7t",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb623676def3d96ee9f38356cc",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174623676def3d96ee9f38356cc",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178623676def3d96ee9f38356cc",
+    "width": 160
+   }
+  ],
+  "name": "PinkPantheress",
+  "popularity": 76,
+  "type": "artist",
+  "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t",
+  "birthdate": "2001-04-19",
+  "birth_location": "Bath, England"
+ },
+ "790FomKkXshlbRYZFtlgla": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+  },
+  "followers": {
+   "href": null,
+   "total": 55717630
+  },
+  "genres": [
+   "reggaeton",
+   "latin",
+   "urbano latino"
+  ],
+  "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+  "id": "790FomKkXshlbRYZFtlgla",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb4b0754aefc9db490e02205ec",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051744b0754aefc9db490e02205ec",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1784b0754aefc9db490e02205ec",
+    "width": 160
+   }
+  ],
+  "name": "KAROL G",
+  "popularity": 88,
+  "type": "artist",
+  "uri": "spotify:artist:790FomKkXshlbRYZFtlgla",
+  "birthdate": "1949-12-04",
+  "birth_location": "Eschwege, Germany"
+ },
+ "0fA0VVWsXO9YnASrzqfmYu": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+  },
+  "followers": {
+   "href": null,
+   "total": 7470892
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu",
+  "id": "0fA0VVWsXO9YnASrzqfmYu",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb876faa285687786c3d314ae0",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174876faa285687786c3d314ae0",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178876faa285687786c3d314ae0",
+    "width": 160
+   }
+  ],
+  "name": "Kid Cudi",
+  "popularity": 80,
+  "type": "artist",
+  "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu",
+  "birthdate": "1984-01-30",
+  "birth_location": "Cleveland, United States"
+ },
+ "3TVXtAsR1Inumwj472S9r4": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+  },
+  "followers": {
+   "href": null,
+   "total": 97282900
+  },
+  "genres": [
+   "rap",
+   "hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+  "id": "3TVXtAsR1Inumwj472S9r4",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051744293385d324db8558179afd9",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1784293385d324db8558179afd9",
+    "width": 160
+   }
+  ],
+  "name": "Drake",
+  "popularity": 98,
+  "type": "artist",
+  "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
+  "birthdate": "1986-10-24",
+  "birth_location": "Toronto, Canada"
+ },
+ "3Ujv6sa60JRiaxS8RVuNOj": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+  },
+  "followers": {
+   "href": null,
+   "total": 130785
+  },
+  "genres": [
+   "nova mpb"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3Ujv6sa60JRiaxS8RVuNOj",
+  "id": "3Ujv6sa60JRiaxS8RVuNOj",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb9037eb9afe5958d5393f96da",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051749037eb9afe5958d5393f96da",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1789037eb9afe5958d5393f96da",
+    "width": 160
+   }
+  ],
+  "name": "Tuyo",
+  "popularity": 53,
+  "type": "artist",
+  "uri": "spotify:artist:3Ujv6sa60JRiaxS8RVuNOj",
+  "birthdate": "2016",
+  "birth_location": "Curitiba, Brazil"
+ },
+ "59oA5WbbQvomJz2BuRG071": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+  },
+  "followers": {
+   "href": null,
+   "total": 1652757
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071",
+  "id": "59oA5WbbQvomJz2BuRG071",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb21f6e9ccd576bb2ef541a3fe",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab6761610000517421f6e9ccd576bb2ef541a3fe",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f17821f6e9ccd576bb2ef541a3fe",
+    "width": 160
+   }
+  ],
+  "name": "Jungle",
+  "popularity": 74,
+  "type": "artist",
+  "uri": "spotify:artist:59oA5WbbQvomJz2BuRG071",
+  "birthdate": "1987",
+  "birth_location": "New York, United States"
+ },
+ "5cMgGlA1xGyeAB2ctYlRdZ": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+  },
+  "followers": {
+   "href": null,
+   "total": 1028720
+  },
+  "genres": [
+   "east coast hip hop",
+   "hip hop",
+   "boom bap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+  "id": "5cMgGlA1xGyeAB2ctYlRdZ",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb85ee94998a936ef47231db39",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab6761610000517485ee94998a936ef47231db39",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f17885ee94998a936ef47231db39",
+    "width": 160
+   }
+  ],
+  "name": "Gang Starr",
+  "popularity": 64,
+  "type": "artist",
+  "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ",
+  "birthdate": "1985",
+  "birth_location": "Boston, United States"
+ },
+ "5me0Irg2ANcsgc93uaYrpb": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+  },
+  "followers": {
+   "href": null,
+   "total": 11856276
+  },
+  "genres": [
+   "gangster rap",
+   "east coast hip hop",
+   "hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+  "id": "5me0Irg2ANcsgc93uaYrpb",
+  "images": [
+   {
+    "height": 1250,
+    "url": "https://i.scdn.co/image/1b4858fbd24046a81cace5ee18d19c868262b91f",
+    "width": 1000
+   },
+   {
+    "height": 800,
+    "url": "https://i.scdn.co/image/9bb42de208edcb69653a8e7951fa93b13f598cdd",
+    "width": 640
+   },
+   {
+    "height": 250,
+    "url": "https://i.scdn.co/image/e56612ae56c9007e99ab36b83efd4faf6401260d",
+    "width": 200
+   },
+   {
+    "height": 80,
+    "url": "https://i.scdn.co/image/fc074d287739cca12a89c76fd338ff7d4aa4acee",
+    "width": 64
+   }
+  ],
+  "name": "The Notorious B.I.G.",
+  "popularity": 79,
+  "type": "artist",
+  "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb",
+  "birthdate": "1972-05-21",
+  "birth_location": "Clinton Hill, United States"
+ },
+ "7iK8PXO48WeuP03g8YR51W": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+  },
+  "followers": {
+   "href": null,
+   "total": 19354546
+  },
+  "genres": [
+   "reggaeton",
+   "trap latino",
+   "urbano latino"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7iK8PXO48WeuP03g8YR51W",
+  "id": "7iK8PXO48WeuP03g8YR51W",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb8372345609bebaf1e948ef7f",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051748372345609bebaf1e948ef7f",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1788372345609bebaf1e948ef7f",
+    "width": 160
+   }
+  ],
+  "name": "Myke Towers",
+  "popularity": 88,
+  "type": "artist",
+  "uri": "spotify:artist:7iK8PXO48WeuP03g8YR51W",
+  "birthdate": "1994-01-15",
+  "birth_location": "R\u00edo Piedras, Puerto Rico"
+ },
+ "7ltDVBr6mKbRvohxheJ9h1": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+  },
+  "followers": {
+   "href": null,
+   "total": 8462435
+  },
+  "genres": [
+   "latin"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
+  "id": "7ltDVBr6mKbRvohxheJ9h1",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174d7bb678bef6d2f26110cae49",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178d7bb678bef6d2f26110cae49",
+    "width": 160
+   }
+  ],
+  "name": "ROSAL\u00cdA",
+  "popularity": 78,
+  "type": "artist",
+  "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+ },
+ "6rwq7oW7O6Aq2ycOKsfXJi": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/6rwq7oW7O6Aq2ycOKsfXJi"
+  },
+  "followers": {
+   "href": null,
+   "total": 167
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6rwq7oW7O6Aq2ycOKsfXJi",
+  "id": "6rwq7oW7O6Aq2ycOKsfXJi",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb0bf06449211a93e4b5366fdf",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051740bf06449211a93e4b5366fdf",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1780bf06449211a93e4b5366fdf",
+    "width": 160
+   }
+  ],
+  "name": "Connor Casper",
+  "popularity": 0,
+  "type": "artist",
+  "uri": "spotify:artist:6rwq7oW7O6Aq2ycOKsfXJi"
+ },
+ "0Oyxj6T9BLAkfJmxEMbuFn": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+  },
+  "followers": {
+   "href": null,
+   "total": 30863
+  },
+  "genres": [
+   "nova mpb",
+   "brazilian pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0Oyxj6T9BLAkfJmxEMbuFn",
+  "id": "0Oyxj6T9BLAkfJmxEMbuFn",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb1711ebf867d2e4279185ad5a",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051741711ebf867d2e4279185ad5a",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1781711ebf867d2e4279185ad5a",
+    "width": 160
+   }
+  ],
+  "name": "Clara Valverde",
+  "popularity": 44,
+  "type": "artist",
+  "uri": "spotify:artist:0Oyxj6T9BLAkfJmxEMbuFn"
+ },
+ "0Y4inQK6OespitzD6ijMwb": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+  },
+  "followers": {
+   "href": null,
+   "total": 1377911
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/0Y4inQK6OespitzD6ijMwb",
+  "id": "0Y4inQK6OespitzD6ijMwb",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb0f1ce8bed2317797c2e70544",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051740f1ce8bed2317797c2e70544",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1780f1ce8bed2317797c2e70544",
+    "width": 160
+   }
+  ],
+  "name": "Freddie Gibbs",
+  "popularity": 68,
+  "type": "artist",
+  "uri": "spotify:artist:0Y4inQK6OespitzD6ijMwb"
+ },
+ "0fpg4Y7Q6ZRDSppLLt7G0n": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
+  },
+  "followers": {
+   "href": null,
+   "total": 114973
+  },
+  "genres": [
+   "nova mpb",
+   "brazilian pop",
+   "tecnobrega"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0fpg4Y7Q6ZRDSppLLt7G0n",
+  "id": "0fpg4Y7Q6ZRDSppLLt7G0n",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb0f498ef65affe4a83c1b2bcf",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051740f498ef65affe4a83c1b2bcf",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1780f498ef65affe4a83c1b2bcf",
+    "width": 160
+   }
+  ],
+  "name": "Mc Tha",
+  "popularity": 44,
+  "type": "artist",
+  "uri": "spotify:artist:0fpg4Y7Q6ZRDSppLLt7G0n"
+ },
+ "0i1s9WcIu0PrUvHzALgofo": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+  },
+  "followers": {
+   "href": null,
+   "total": 1727955
+  },
+  "genres": [
+   "mpb",
+   "samba",
+   "pagode"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0i1s9WcIu0PrUvHzALgofo",
+  "id": "0i1s9WcIu0PrUvHzALgofo",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eba124f650946041fc26b0379b",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174a124f650946041fc26b0379b",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178a124f650946041fc26b0379b",
+    "width": 160
+   }
+  ],
+  "name": "Seu Jorge",
+  "popularity": 69,
+  "type": "artist",
+  "uri": "spotify:artist:0i1s9WcIu0PrUvHzALgofo"
+ },
+ "12i4XNuGj3mOnIsmeyw1HR": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+  },
+  "followers": {
+   "href": null,
+   "total": 92052
+  },
+  "genres": [
+   "nova mpb"
+  ],
+  "href": "https://api.spotify.com/v1/artists/12i4XNuGj3mOnIsmeyw1HR",
+  "id": "12i4XNuGj3mOnIsmeyw1HR",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb65631de3cf5087c37ab4bd2e",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab6761610000517465631de3cf5087c37ab4bd2e",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f17865631de3cf5087c37ab4bd2e",
+    "width": 160
+   }
+  ],
+  "name": "Rachel Reis",
+  "popularity": 53,
+  "type": "artist",
+  "uri": "spotify:artist:12i4XNuGj3mOnIsmeyw1HR"
+ },
+ "1ybINI1qPiFbwDXamRtwxD": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+  },
+  "followers": {
+   "href": null,
+   "total": 1018870
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/1ybINI1qPiFbwDXamRtwxD",
+  "id": "1ybINI1qPiFbwDXamRtwxD",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb4942e4dee1baf077fe6a9e2c",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051744942e4dee1baf077fe6a9e2c",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1784942e4dee1baf077fe6a9e2c",
+    "width": 160
+   }
+  ],
+  "name": "Smino",
+  "popularity": 68,
+  "type": "artist",
+  "uri": "spotify:artist:1ybINI1qPiFbwDXamRtwxD"
+ },
+ "2N4EYkIlG1kv25g6Wv8LGI": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+  },
+  "followers": {
+   "href": null,
+   "total": 477654
+  },
+  "genres": [
+   "southern hip hop",
+   "alternative hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+  "id": "2N4EYkIlG1kv25g6Wv8LGI",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb529dee5aaa5b6d45813f93d9",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174529dee5aaa5b6d45813f93d9",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178529dee5aaa5b6d45813f93d9",
+    "width": 160
+   }
+  ],
+  "name": "Killer Mike",
+  "popularity": 63,
+  "type": "artist",
+  "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI",
+  "birthdate": "1975-04-20",
+  "birth_location": "Atlanta, United States"
+ },
+ "3ycxRkcZ67ALN3GQJ57Vig": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+  },
+  "followers": {
+   "href": null,
+   "total": 1509513
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3ycxRkcZ67ALN3GQJ57Vig",
+  "id": "3ycxRkcZ67ALN3GQJ57Vig",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eba12539a9a66ddf0b498d4d4a",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174a12539a9a66ddf0b498d4d4a",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178a12539a9a66ddf0b498d4d4a",
+    "width": 160
+   }
+  ],
+  "name": "Masego",
+  "popularity": 71,
+  "type": "artist",
+  "uri": "spotify:artist:3ycxRkcZ67ALN3GQJ57Vig",
+  "birthdate": "1993-06-08",
+  "birth_location": "Kingston, United States"
+ },
+ "4Xj0nxVO4r7PLEaw7LRiBa": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+  },
+  "followers": {
+   "href": null,
+   "total": 188236
+  },
+  "genres": [
+   "afrobeats",
+   "alt\u00e9",
+   "afrobeat",
+   "afroswing",
+   "afropop",
+   "afro soul"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4Xj0nxVO4r7PLEaw7LRiBa",
+  "id": "4Xj0nxVO4r7PLEaw7LRiBa",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb0486692ddac52f42502bba6f",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051740486692ddac52f42502bba6f",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1780486692ddac52f42502bba6f",
+    "width": 160
+   }
+  ],
+  "name": "melvitto",
+  "popularity": 64,
+  "type": "artist",
+  "uri": "spotify:artist:4Xj0nxVO4r7PLEaw7LRiBa",
+  "birthdate": "",
+  "birth_location": ", United Kingdom"
+ },
+ "7xGwSsxEISjWZGbaXiLN8z": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+  },
+  "followers": {
+   "href": null,
+   "total": 57184
+  },
+  "genres": [
+   "nova mpb"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7xGwSsxEISjWZGbaXiLN8z",
+  "id": "7xGwSsxEISjWZGbaXiLN8z",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb693de086b515529dc154e2f6",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174693de086b515529dc154e2f6",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178693de086b515529dc154e2f6",
+    "width": 160
+   }
+  ],
+  "name": "Lamparina",
+  "popularity": 49,
+  "type": "artist",
+  "uri": "spotify:artist:7xGwSsxEISjWZGbaXiLN8z",
+  "birthdate": "",
+  "birth_location": "Belo Horizonte, Brazil"
+ },
+ "4m5LghDfOKFZNEBZ0GO1OQ": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+  },
+  "followers": {
+   "href": null,
+   "total": 257437
+  },
+  "genres": [
+   "nova mpb",
+   "mpb"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4m5LghDfOKFZNEBZ0GO1OQ",
+  "id": "4m5LghDfOKFZNEBZ0GO1OQ",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebe8142d0a8432f1de0afda7e9",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174e8142d0a8432f1de0afda7e9",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178e8142d0a8432f1de0afda7e9",
+    "width": 160
+   }
+  ],
+  "name": "Jovem Dionisio",
+  "popularity": 58,
+  "type": "artist",
+  "uri": "spotify:artist:4m5LghDfOKFZNEBZ0GO1OQ",
+  "birthdate": "",
+  "birth_location": ", Country Unknown"
+ },
+ "5XenQ7XfcvQdfIbpLEFaKQ": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+  },
+  "followers": {
+   "href": null,
+   "total": 921145
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/5XenQ7XfcvQdfIbpLEFaKQ",
+  "id": "5XenQ7XfcvQdfIbpLEFaKQ",
+  "images": [
+   {
+    "height": 1000,
+    "url": "https://i.scdn.co/image/337c0f44dae54bf2e2dbea22c4a6901a3055ad27",
+    "width": 1000
+   },
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/fe7a2b8c94b4c479b03d3d045c9b538cd2438311",
+    "width": 640
+   },
+   {
+    "height": 200,
+    "url": "https://i.scdn.co/image/931b02747281868af8ab77f07bb1af4c827dc4a4",
+    "width": 200
+   },
+   {
+    "height": 64,
+    "url": "https://i.scdn.co/image/1e1bfd1d3120a87150bf78a14d9f881811b98e19",
+    "width": 64
+   }
+  ],
+  "name": "GoldLink",
+  "popularity": 64,
+  "type": "artist",
+  "uri": "spotify:artist:5XenQ7XfcvQdfIbpLEFaKQ",
+  "birthdate": "1993-05-17",
+  "birth_location": "Washington, D.C., United States"
+ },
+ "2eFVsaX3yHLPeWpiqvmeFn": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+  },
+  "followers": {
+   "href": null,
+   "total": 351667
+  },
+  "genres": [
+   "nova mpb",
+   "mpb"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2eFVsaX3yHLPeWpiqvmeFn",
+  "id": "2eFVsaX3yHLPeWpiqvmeFn",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb2ef73bf5b2b4863c823a727e",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051742ef73bf5b2b4863c823a727e",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1782ef73bf5b2b4863c823a727e",
+    "width": 160
+   }
+  ],
+  "name": "C\u00e9u",
+  "popularity": 50,
+  "type": "artist",
+  "uri": "spotify:artist:2eFVsaX3yHLPeWpiqvmeFn",
+  "birthdate": "1980-04-17",
+  "birth_location": "S\u00e3o Paulo, Brazil"
+ },
+ "5XMyhVhi5ZN2pi0Qwi1zXS": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+  },
+  "followers": {
+   "href": null,
+   "total": 489087
+  },
+  "genres": [
+   "alternative r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5XMyhVhi5ZN2pi0Qwi1zXS",
+  "id": "5XMyhVhi5ZN2pi0Qwi1zXS",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb9b2ae2f4333e1c93155444c7",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051749b2ae2f4333e1c93155444c7",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1789b2ae2f4333e1c93155444c7",
+    "width": 160
+   }
+  ],
+  "name": "Joy Crookes",
+  "popularity": 60,
+  "type": "artist",
+  "uri": "spotify:artist:5XMyhVhi5ZN2pi0Qwi1zXS",
+  "birthdate": "1998-10-09",
+  "birth_location": "Lambeth, United Kingdom"
+ },
+ "4JNo6Q5KdcRf1vtSX9mB0S": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+  },
+  "followers": {
+   "href": null,
+   "total": 7492146
+  },
+  "genres": [
+   "piseiro",
+   "forr\u00f3",
+   "sertanejo",
+   "arrocha",
+   "brega"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4JNo6Q5KdcRf1vtSX9mB0S",
+  "id": "4JNo6Q5KdcRf1vtSX9mB0S",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb7e80d3bef2e80c1194282416",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051747e80d3bef2e80c1194282416",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1787e80d3bef2e80c1194282416",
+    "width": 160
+   }
+  ],
+  "name": "Jo\u00e3o Gomes",
+  "popularity": 69,
+  "type": "artist",
+  "uri": "spotify:artist:4JNo6Q5KdcRf1vtSX9mB0S",
+  "birthdate": "2002-07-31",
+  "birth_location": "Pernambuco, Brazil"
+ },
+ "74CcYmmNeHKe5PrZaISk8e": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+  },
+  "followers": {
+   "href": null,
+   "total": 186831
+  },
+  "genres": [
+   "alternative r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/74CcYmmNeHKe5PrZaISk8e",
+  "id": "74CcYmmNeHKe5PrZaISk8e",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebb9014fa3e790ff2c8eb514e3",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174b9014fa3e790ff2c8eb514e3",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178b9014fa3e790ff2c8eb514e3",
+    "width": 160
+   }
+  ],
+  "name": "Hope Tala",
+  "popularity": 54,
+  "type": "artist",
+  "uri": "spotify:artist:74CcYmmNeHKe5PrZaISk8e",
+  "birthdate": "1997-11-18",
+  "birth_location": "London, Bristol"
+ },
+ "0JCwkTQqtgVQXBRxwEloEg": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg"
+  },
+  "followers": {
+   "href": null,
+   "total": 2260
+  },
+  "genres": [
+   "nova mpb"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0JCwkTQqtgVQXBRxwEloEg",
+  "id": "0JCwkTQqtgVQXBRxwEloEg",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb13d2484e4d8ae08214fafc07",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab6761610000517413d2484e4d8ae08214fafc07",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f17813d2484e4d8ae08214fafc07",
+    "width": 160
+   }
+  ],
+  "name": "Os Fugitivos",
+  "popularity": 16,
+  "type": "artist",
+  "uri": "spotify:artist:0JCwkTQqtgVQXBRxwEloEg",
+  "birthdate": "",
+  "birth_location": ", Country Unknown"
+ },
+ "7uvxsk688pwnBNA62cTKS1": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+  },
+  "followers": {
+   "href": null,
+   "total": 121390
+  },
+  "genres": [
+   "nova mpb"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7uvxsk688pwnBNA62cTKS1",
+  "id": "7uvxsk688pwnBNA62cTKS1",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebc86f580cf3134ba99e4cb250",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174c86f580cf3134ba99e4cb250",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178c86f580cf3134ba99e4cb250",
+    "width": 160
+   }
+  ],
+  "name": "Ana Frango El\u00e9trico",
+  "popularity": 48,
+  "type": "artist",
+  "uri": "spotify:artist:7uvxsk688pwnBNA62cTKS1",
+  "birthdate": "1997-12-09",
+  "birth_location": "Rio de Janeiro, Brazil"
+ },
+ "7HGNYPmbDrMkylWqeFCOIQ": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+  },
+  "followers": {
+   "href": null,
+   "total": 2462380
+  },
+  "genres": [
+   "mpb",
+   "bossa nova",
+   "samba"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ",
+  "id": "7HGNYPmbDrMkylWqeFCOIQ",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebc9cfb41f1889a4d794d54fc8",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174c9cfb41f1889a4d794d54fc8",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178c9cfb41f1889a4d794d54fc8",
+    "width": 160
+   }
+  ],
+  "name": "Caetano Veloso",
+  "popularity": 68,
+  "type": "artist",
+  "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ",
+  "birthdate": "1942-08-07",
+  "birth_location": "Santo Amaro, Brazil"
+ },
+ "3WrFJ7ztbogyGnTHbHJFl2": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+  },
+  "followers": {
+   "href": null,
+   "total": 29646556
+  },
+  "genres": [
+   "classic rock",
+   "psychedelic rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+  "id": "3WrFJ7ztbogyGnTHbHJFl2",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174e9348cc01ff5d55971b22433",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178e9348cc01ff5d55971b22433",
+    "width": 160
+   }
+  ],
+  "name": "The Beatles",
+  "popularity": 85,
+  "type": "artist",
+  "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2",
+  "birthdate": "1960",
+  "birth_location": "Liverpool, United Kingdom"
+ },
+ "6l3HvQ5sa6mXTsMTB19rO5": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+  },
+  "followers": {
+   "href": null,
+   "total": 25992904
+  },
+  "genres": [
+   "rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+  "id": "6l3HvQ5sa6mXTsMTB19rO5",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb4b053c29fd4b317ff825f0dc",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051744b053c29fd4b317ff825f0dc",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1784b053c29fd4b317ff825f0dc",
+    "width": 160
+   }
+  ],
+  "name": "J. Cole",
+  "popularity": 86,
+  "type": "artist",
+  "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5",
+  "birthdate": "1919-03-17",
+  "birth_location": "Montgomery, United States"
+ },
+ "7pGyQZx9thVa8GxMBeXscB": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB"
+  },
+  "followers": {
+   "href": null,
+   "total": 283881
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/7pGyQZx9thVa8GxMBeXscB",
+  "id": "7pGyQZx9thVa8GxMBeXscB",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebd38110d8912bd295b0fca352",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174d38110d8912bd295b0fca352",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178d38110d8912bd295b0fca352",
+    "width": 160
+   }
+  ],
+  "name": "K'NAAN",
+  "popularity": 63,
+  "type": "artist",
+  "uri": "spotify:artist:7pGyQZx9thVa8GxMBeXscB"
+ },
+ "6q7nMIVgGohQ14mSsq3F8t": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+  },
+  "followers": {
+   "href": null,
+   "total": 441966
+  },
+  "genres": [
+   "nova mpb",
+   "mpb"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6q7nMIVgGohQ14mSsq3F8t",
+  "id": "6q7nMIVgGohQ14mSsq3F8t",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb919bcf8dda8256a250d10d26",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174919bcf8dda8256a250d10d26",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178919bcf8dda8256a250d10d26",
+    "width": 160
+   }
+  ],
+  "name": "Gilsons",
+  "popularity": 67,
+  "type": "artist",
+  "uri": "spotify:artist:6q7nMIVgGohQ14mSsq3F8t"
+ },
+ "2LRoIwlKmHjgvigdNGBHNo": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+  },
+  "followers": {
+   "href": null,
+   "total": 16685342
+  },
+  "genres": [
+   "reggaeton",
+   "urbano latino"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2LRoIwlKmHjgvigdNGBHNo",
+  "id": "2LRoIwlKmHjgvigdNGBHNo",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb5e9905f881de7345f498258e",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051745e9905f881de7345f498258e",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1785e9905f881de7345f498258e",
+    "width": 160
+   }
+  ],
+  "name": "Feid",
+  "popularity": 90,
+  "type": "artist",
+  "uri": "spotify:artist:2LRoIwlKmHjgvigdNGBHNo"
+ },
+ "50sftj2oW2iBviA6RkTzsz": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+  },
+  "followers": {
+   "href": null,
+   "total": 422068
+  },
+  "genres": [
+   "nova mpb",
+   "mpb",
+   "brazilian pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/50sftj2oW2iBviA6RkTzsz",
+  "id": "50sftj2oW2iBviA6RkTzsz",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebfe8f505db48853a5342b08ee",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174fe8f505db48853a5342b08ee",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178fe8f505db48853a5342b08ee",
+    "width": 160
+   }
+  ],
+  "name": "Silva",
+  "popularity": 60,
+  "type": "artist",
+  "uri": "spotify:artist:50sftj2oW2iBviA6RkTzsz"
+ },
+ "5wbf52LA6kcaboHSN6NEF1": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+  },
+  "followers": {
+   "href": null,
+   "total": 2891989
+  },
+  "genres": [
+   "funk",
+   "funk pop",
+   "brazilian funk",
+   "funk carioca",
+   "brega funk",
+   "brazilian pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5wbf52LA6kcaboHSN6NEF1",
+  "id": "5wbf52LA6kcaboHSN6NEF1",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb17af45f97f547e588f3903f6",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab6761610000517417af45f97f547e588f3903f6",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f17817af45f97f547e588f3903f6",
+    "width": 160
+   }
+  ],
+  "name": "PEDRO SAMPAIO",
+  "popularity": 73,
+  "type": "artist",
+  "uri": "spotify:artist:5wbf52LA6kcaboHSN6NEF1"
+ },
+ "7hJcb9fa4alzcOq3EaNPoG": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+  },
+  "followers": {
+   "href": null,
+   "total": 14414626
+  },
+  "genres": [
+   "g-funk",
+   "west coast hip hop",
+   "gangster rap",
+   "hip hop",
+   "rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+  "id": "7hJcb9fa4alzcOq3EaNPoG",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebc19a88576ebe6fcbb325c297",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174c19a88576ebe6fcbb325c297",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178c19a88576ebe6fcbb325c297",
+    "width": 160
+   }
+  ],
+  "name": "Snoop Dogg",
+  "popularity": 84,
+  "type": "artist",
+  "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+ },
+ "2GHclqNVjqGuiE5mA7BEoc": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+  },
+  "followers": {
+   "href": null,
+   "total": 1008648
+  },
+  "genres": [
+   "hip hop",
+   "jazz rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+  "id": "2GHclqNVjqGuiE5mA7BEoc",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb6354c88f58d8a99b91e0d965",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051746354c88f58d8a99b91e0d965",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1786354c88f58d8a99b91e0d965",
+    "width": 160
+   }
+  ],
+  "name": "Common",
+  "popularity": 62,
+  "type": "artist",
+  "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+ },
+ "5FxD8fkQZ6KcsSYupDVoSO": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+  },
+  "followers": {
+   "href": null,
+   "total": 1087683
+  },
+  "genres": [
+   "bedroom pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+  "id": "5FxD8fkQZ6KcsSYupDVoSO",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebae8080a07532b843b42acec1",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174ae8080a07532b843b42acec1",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178ae8080a07532b843b42acec1",
+    "width": 160
+   }
+  ],
+  "name": "Omar Apollo",
+  "popularity": 70,
+  "type": "artist",
+  "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+ },
+ "0Y5tJX1MQlPlqiwlOH1tJY": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+  },
+  "followers": {
+   "href": null,
+   "total": 37802420
+  },
+  "genres": [
+   "rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+  "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab6761610000517419c2790744c792d05570bb71",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f17819c2790744c792d05570bb71",
+    "width": 160
+   }
+  ],
+  "name": "Travis Scott",
+  "popularity": 94,
+  "type": "artist",
+  "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+ },
+ "1mcTU81TzQhprhouKaTkpq": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+  },
+  "followers": {
+   "href": null,
+   "total": 27487982
+  },
+  "genres": [
+   "reggaeton",
+   "urbano latino",
+   "trap latino",
+   "latin"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+  "id": "1mcTU81TzQhprhouKaTkpq",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebb271c8a0507c4c1ea795d989",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174b271c8a0507c4c1ea795d989",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178b271c8a0507c4c1ea795d989",
+    "width": 160
+   }
+  ],
+  "name": "Rauw Alejandro",
+  "popularity": 91,
+  "type": "artist",
+  "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
+  "birthdate": "1993-01-10",
+  "birth_location": "San Juan, Puerto Rico"
+ },
+ "5JHYuwE2n7bleXMUsmtCW5": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+  },
+  "followers": {
+   "href": null,
+   "total": 325403
+  },
+  "genres": [
+   "nova mpb",
+   "brazilian pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5JHYuwE2n7bleXMUsmtCW5",
+  "id": "5JHYuwE2n7bleXMUsmtCW5",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb2915a49e3b24ec643c999be5",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051742915a49e3b24ec643c999be5",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1782915a49e3b24ec643c999be5",
+    "width": 160
+   }
+  ],
+  "name": "BaianaSystem",
+  "popularity": 61,
+  "type": "artist",
+  "uri": "spotify:artist:5JHYuwE2n7bleXMUsmtCW5",
+  "birthdate": "2009",
+  "birth_location": "Salvador, Brazil"
+ },
+ "5D56dZmhE9DgT01XixdHiD": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+  },
+  "followers": {
+   "href": null,
+   "total": 993982
+  },
+  "genres": [
+   "nova mpb",
+   "mpb",
+   "brazilian pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5D56dZmhE9DgT01XixdHiD",
+  "id": "5D56dZmhE9DgT01XixdHiD",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb9e80f8f45b7e4f2427e411d7",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab676161000051749e80f8f45b7e4f2427e411d7",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f1789e80f8f45b7e4f2427e411d7",
+    "width": 160
+   }
+  ],
+  "name": "Lagum",
+  "popularity": 65,
+  "type": "artist",
+  "uri": "spotify:artist:5D56dZmhE9DgT01XixdHiD",
+  "birthdate": "2014",
+  "birth_location": "Brazil, Brazil"
+ },
+ "01QTIT5P1pFP3QnnFSdsJf": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+  },
+  "followers": {
+   "href": null,
+   "total": 1940571
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+  "id": "01QTIT5P1pFP3QnnFSdsJf",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb17e0a43f3aaa0c48410c4b68",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab6761610000517417e0a43f3aaa0c48410c4b68",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f17817e0a43f3aaa0c48410c4b68",
+    "width": 160
+   }
+  ],
+  "name": "Lupe Fiasco",
+  "popularity": 68,
+  "type": "artist",
+  "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf",
+  "birthdate": "1982-02-16",
+  "birth_location": "Chicago, United States"
+ },
+ "2P5sC9cVZDToPxyomzF1UH": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+  },
+  "followers": {
+   "href": null,
+   "total": 3714129
+  },
+  "genres": [
+   "hip hop",
+   "rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2P5sC9cVZDToPxyomzF1UH",
+  "id": "2P5sC9cVZDToPxyomzF1UH",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebae01fe0d10cd8ebb4707c461",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174ae01fe0d10cd8ebb4707c461",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178ae01fe0d10cd8ebb4707c461",
+    "width": 160
+   }
+  ],
+  "name": "Joey Bada$$",
+  "popularity": 73,
+  "type": "artist",
+  "uri": "spotify:artist:2P5sC9cVZDToPxyomzF1UH",
+  "birthdate": "1995-01-20",
+  "birth_location": "Flatbush, United States"
+ },
+ "09hVIj6vWgoCDtT03h8ZCa": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+  },
+  "followers": {
+   "href": null,
+   "total": 2302028
+  },
+  "genres": [
+   "jazz rap",
+   "east coast hip hop",
+   "hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+  "id": "09hVIj6vWgoCDtT03h8ZCa",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb774d73ae6796b6f437d89db9",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174774d73ae6796b6f437d89db9",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178774d73ae6796b6f437d89db9",
+    "width": 160
+   }
+  ],
+  "name": "A Tribe Called Quest",
+  "popularity": 68,
+  "type": "artist",
+  "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa",
+  "birthdate": "1985",
+  "birth_location": "St. Albans, United States"
+ },
+ "21451j1KhjAiaYKflxBjr1": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+  },
+  "followers": {
+   "href": null,
+   "total": 8006655
+  },
+  "genres": [
+   "reggaeton",
+   "latin"
+  ],
+  "href": "https://api.spotify.com/v1/artists/21451j1KhjAiaYKflxBjr1",
+  "id": "21451j1KhjAiaYKflxBjr1",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebfa844599a8631cca451a93e5",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174fa844599a8631cca451a93e5",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178fa844599a8631cca451a93e5",
+    "width": 160
+   }
+  ],
+  "name": "Zion & Lennox",
+  "popularity": 77,
+  "type": "artist",
+  "uri": "spotify:artist:21451j1KhjAiaYKflxBjr1",
+  "birthdate": "1996",
+  "birth_location": "Oakland, United States"
+ },
+ "6USv9qhCn6zfxlBQIYJ9qs": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+  },
+  "followers": {
+   "href": null,
+   "total": 2066397
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6USv9qhCn6zfxlBQIYJ9qs",
+  "id": "6USv9qhCn6zfxlBQIYJ9qs",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebb62462a1a43ff08f8a982791",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174b62462a1a43ff08f8a982791",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178b62462a1a43ff08f8a982791",
+    "width": 160
+   }
+  ],
+  "name": "Dominic Fike",
+  "popularity": 79,
+  "type": "artist",
+  "uri": "spotify:artist:6USv9qhCn6zfxlBQIYJ9qs",
+  "birthdate": "1995-12-30",
+  "birth_location": "Naples, Florida"
+ },
+ "2QLSJqqGIstNbO6nYRR16o": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+  },
+  "followers": {
+   "href": null,
+   "total": 425067
+  },
+  "genres": [
+   "nova mpb",
+   "brazilian pop",
+   "mpb"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2QLSJqqGIstNbO6nYRR16o",
+  "id": "2QLSJqqGIstNbO6nYRR16o",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb15c150230b52e8dc3e689655",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab6761610000517415c150230b52e8dc3e689655",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f17815c150230b52e8dc3e689655",
+    "width": 160
+   }
+  ],
+  "name": "DUDA BEAT",
+  "popularity": 58,
+  "type": "artist",
+  "uri": "spotify:artist:2QLSJqqGIstNbO6nYRR16o",
+  "birthdate": "1979-03",
+  "birth_location": "Birmingham, United Kingdom"
+ },
+ "738wLrAtLtCtFOLvQBXOXp": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+  },
+  "followers": {
+   "href": null,
+   "total": 6267558
+  },
+  "genres": [
+   "moombahton"
+  ],
+  "href": "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+  "id": "738wLrAtLtCtFOLvQBXOXp",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5eb133f44ab343b35c715a4ac97",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174133f44ab343b35c715a4ac97",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178133f44ab343b35c715a4ac97",
+    "width": 160
+   }
+  ],
+  "name": "Major Lazer",
+  "popularity": 76,
+  "type": "artist",
+  "uri": "spotify:artist:738wLrAtLtCtFOLvQBXOXp",
+  "birthdate": "2008",
+  "birth_location": "Los Angeles, Jamaica"
+ },
+ "0eHQ9o50hj6ZDNBt6Ys1sD": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+  },
+  "followers": {
+   "href": null,
+   "total": 8436744
+  },
+  "genres": [
+   "reggaeton",
+   "urbano latino",
+   "latin"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0eHQ9o50hj6ZDNBt6Ys1sD",
+  "id": "0eHQ9o50hj6ZDNBt6Ys1sD",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebb28ff26a8cba0079ec44e84e",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174b28ff26a8cba0079ec44e84e",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178b28ff26a8cba0079ec44e84e",
+    "width": 160
+   }
+  ],
+  "name": "Yandel",
+  "popularity": 78,
+  "type": "artist",
+  "uri": "spotify:artist:0eHQ9o50hj6ZDNBt6Ys1sD",
+  "birthdate": "1977-01-14",
+  "birth_location": ", Puerto Rico"
+ },
+ "0iEtIxbK0KxaSlF7G42ZOp": {
+  "external_urls": {
+   "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+  },
+  "followers": {
+   "href": null,
+   "total": 10702474
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+  "id": "0iEtIxbK0KxaSlF7G42ZOp",
+  "images": [
+   {
+    "height": 640,
+    "url": "https://i.scdn.co/image/ab6761610000e5ebdf9a1555f53a20087b8c5a5c",
+    "width": 640
+   },
+   {
+    "height": 320,
+    "url": "https://i.scdn.co/image/ab67616100005174df9a1555f53a20087b8c5a5c",
+    "width": 320
+   },
+   {
+    "height": 160,
+    "url": "https://i.scdn.co/image/ab6761610000f178df9a1555f53a20087b8c5a5c",
+    "width": 160
+   }
+  ],
+  "name": "Metro Boomin",
+  "popularity": 88,
+  "type": "artist",
+  "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp",
+  "birthdate": "1993-09-16",
+  "birth_location": "St. Louis, United States"
+ }
+}

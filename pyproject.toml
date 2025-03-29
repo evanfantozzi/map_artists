@@ -4,4 +4,11 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "flask>=3.1.0",
+    "httpx>=0.28.1",
+    "pat>=0.5.3",
+    "path>=17.1.0",
+    "pathlib>=1.0.1",
+    "spotipy>=2.25.1",
+]
